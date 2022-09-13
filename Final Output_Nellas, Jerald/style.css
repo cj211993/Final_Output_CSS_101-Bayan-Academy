@@ -1,0 +1,39 @@
+
+       header {
+        position: relative;
+        font-family: 'Poppins', sans-serif;
+       }
+      
+        #bio-text {
+        position: relative;
+        background: #ece9e6;
+        padding: 40px;
+        height: 100%;
+        width: 100%;
+        top: 150px;
+       }
+       #name {
+        position: relative;
+        font-weight: bold;
+ 
+       }
+       .main-header {
+        background: url(https://images.unsplash.com/photo-1624436048867-3cab158ec71b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+        background-size: cover;
+        background-position: center;    
+        }
+        #bio-text-2{
+        position: relative;
+        background: #ece9e6;
+        padding-top: 50px;
+        margin-top: 20px;
+        height: 100%;
+        width: 100%;
+        top: 150px;
+        }
+        #training-content {
+            position: relative;
+            padding-bottom: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
